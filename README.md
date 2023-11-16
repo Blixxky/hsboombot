@@ -9,6 +9,8 @@ This project requires Python 3.11 (like MFB-Realive)
 
 ![Puzzle Lab screen](https://i.ibb.co/7VhstNH/image-2023-11-16-161400266.png)
 
+It has a long ~20 minute wait before quitting the game. If it looks like it's doing nothing you are correct as this is how the exp is accrued.
+
 To stop the bot, simply close the terminal window, or put it in focus and CTRL+C to terminate.
 
 # Warning
