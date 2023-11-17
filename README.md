@@ -4,10 +4,11 @@ This project requires Python 3.11 (like MFB-Realive)
 [Download Python 3.11](https://www.python.org/downloads/release/python-3110/)
 
 1. Download the repo.
-2. Set Hearthstone to windowed 1024x768 and open it up to the Solo Adventures - The Boomsday Project Puzzle Lab screen below. Make sure Puzzle Lab is highlighted.
+2. Set Hearthstone to windowed 1024x768 and navigate to Modes->Solo Adventures->The Boomsday Project and select Puzzle Lab. Make sure the screen matches the screenshot below.
 3. Run launch.bat (be patient as it has to initialize and install dependencies). Leave the Hearthstone window in the foreground without any obstruction.
 
-![Puzzle Lab screen](https://i.ibb.co/7VhstNH/image-2023-11-16-161400266.png)
+![Puzzle Lab screen](https://i.ibb.co/c60D9MR/Hearthstone-Screenshot-11-16-23-12-45-30.png)
+
 
 It has a long ~20 minute wait before quitting the game. If it looks like it's doing nothing you are correct as this is how the exp is accrued.
 
