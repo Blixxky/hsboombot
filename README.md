@@ -23,3 +23,11 @@ Blizzard is known to ban people for botting. Even though it is Solo play, don't 
 [Send me a tip!](https://www.buymeacoffee.com/blixxky)
 
 Reach me on [Discord](https://discordapp.com/users/1110685258178908201)
+
+# TO-DO
+
+1. Add in whereami logic
+2. Add in persistence through reconnects
+3. Better logging and error handling
+4. Add bezier curves to mouse movements for security and funsies
+5. GUI?!
