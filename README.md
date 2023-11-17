@@ -18,7 +18,7 @@ To stop the bot, simply close the terminal window, or put it in focus and CTRL+C
 
 Blizzard is known to ban people for botting. Even though it is Solo play, don't go on extremely long marathons as it stands out in their metrics.
 
-# Feeling Generous?
+# Feeling Generous? Motivate me!
 
 [Send me a tip!](https://www.buymeacoffee.com/blixxky)
 
